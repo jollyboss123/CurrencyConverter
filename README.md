@@ -1,5 +1,7 @@
 # CurrencyConverter
 
+Basic currency converter
+
 Tech used:
 1. Hilt 
 2. MVVM
